@@ -5,7 +5,7 @@ vendor: IKEA
 title: Rodret Wireless Dimmer
 category: remote
 zigbeemodel: ['RODRET dimmer']
-compatible: [z2m, zha, deconz]
+compatible: [z2m, zha]
 mlink: https://www.ikea.com/pt/en/p/rodret-wireless-dimmer-power-switch-smart-white-20528128/
 link: 
 pairing: "To pair the device, reset the device by pressing the pair button exactly 4 times quickly."
